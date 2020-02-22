@@ -1,4 +1,5 @@
 #THIS IS DOCKER FILE...!!!!!!!
+#testing
 FROM nginx:latest 
 MAINTAINER mavrick202@gmail.com 
 COPY index.html /usr/share/nginx/html/
